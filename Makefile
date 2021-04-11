@@ -8,7 +8,7 @@
 PROJECT_DIR       :=  $(shell pwd)
 SOURCE_DIR        :=  $(PROJECT_DIR)/src
 INCLUDE_DIR       :=  $(PROJECT_DIR)/inc
-BUILD_DIR	        :=  $(PROJECT_DIR)/build
+BUILD_DIR         :=  $(PROJECT_DIR)/build
 
 # Name of device
 DEVICE            :=  MSP430G2553
